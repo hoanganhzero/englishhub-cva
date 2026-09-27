@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "CVA English Hub",
+  "short_name": "English Hub",
+  "description": "CVA English listening and speaking practice",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f0fdfa",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
